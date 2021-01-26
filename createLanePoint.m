@@ -2,7 +2,7 @@ function [LanePoint] = createLanePoint(C3, C2, C1, C0)
 %
 %
 
-x_range = 120;
+x_range = 200;
 
 LanePoint = zeros(x_range,2);
 
